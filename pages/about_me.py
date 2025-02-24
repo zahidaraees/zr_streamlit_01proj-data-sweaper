@@ -93,7 +93,7 @@ st.markdown("""
 # Social Media Links
 st.markdown("""
 Connect with us on:
-- [LinkedIn](https://www.linkedin.com/in/zahida-raeesi-837602a/)
+- [LinkedIn](https://www.linkedin.com/in/zahida-raees-837602a/)
 - [GitHub](https://github.com/zahidaraees)
 - [Facebook](https://www.facebook.com/zahida.raeesi)
 """)
