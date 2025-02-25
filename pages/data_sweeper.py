@@ -75,7 +75,8 @@ if st.checkbox("Show Visualization for {file.name}" ):
         buffer.seek(0)
 
     # Download the file       
-        st.download_button(label="Click here to download", data=buffer,           file_name=file_name, 
+        st.download_button(label="Click here to download", data=buffer,
+            file_name=file_name, 
             mime=mime_type
             )
 
