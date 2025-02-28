@@ -64,7 +64,7 @@ button_style = """
 
 # HTML for the button link
 button_html = '''
-    <a href="/pages/data_sweeper" class="button">Data Sweeper App</a>
+    <a href="/data_sweeper" class="button">Data Sweeper App</a>
 '''
 
 # Inject CSS and HTML into Streamlit app

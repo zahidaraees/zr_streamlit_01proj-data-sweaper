@@ -5,8 +5,8 @@ import os
 from io import BytesIO, StringIO
 
 #setup of Application 
-st.set_page_config(page_title="Data Sweeper App by Zahida Raees", layout="wide")
-st.title("Data Sweeper")
+st.set_page_config(page_title="Data Sweeper & Convertor - by Zahida Raees", layout="wide")
+st.title("Data Sweeper & Convertor")
 st.write("Transformation of your files, between CSV and Excel formats with built-in data cleaning and visualization")
 
 uploaded_files = st.file_uploader("Upload your files (CSV or Excel):", type=["csv", "xlsx"], accept_multiple_files=True)
